@@ -1,0 +1,8 @@
+q1: Scotland
+q2: Window
+q3: replacing
+q4: window AND replacing
+q5: condemning
+q6: income OR taxes
+q7: income AND NOT taxes
+q8: middle AND east AND peace
